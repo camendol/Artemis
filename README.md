@@ -1,3 +1,3 @@
 # Artemis
 
-Artemis project using HSFL
+Artemis project using COSMOS
